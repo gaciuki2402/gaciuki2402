@@ -1,20 +1,15 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Grace Gaciuki</h1>
-<h3 align="center">A passionate backend software developer</h3>
-
-<p align="left"> <img src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")"/> </p>
-
+<h2 align="left">Hi 👋, I'm Grace Gaciuki</h2>
+<p align="left">I'm a passionate backend software developer. I thrive in the dynamic world of artificial intelligence, constantly exploring new avenues to apply cutting-edge technology.</p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Heart Disease Prediction Model**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborateee on **on possibility of working together to shape the future through machine learning!**
+- 👯 I’m looking to collaborate on **on possibility of working together to shape the future through machine learning!**
 
 - 💬 Ask me about **python|django, machine learning**
 
-- 📫 How to reach me **gaciukigrace@gmail.com**
+- 📫 How to reach me at **gaciukigrace@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
