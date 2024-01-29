@@ -16,10 +16,6 @@
 <a href="https://linkedin.com/in/grace gaciuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grace gaciuki" height="30" width="40" /></a>
 <a href="https://kaggle.com/grace gaciuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="grace gaciuki" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/gaciukigrace@gmail.com"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="gaciukigrace@gmail.com" /></a></p><br><br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaciuki2402&show_icons=true&locale=en&layout=compact" alt="gaciuki2402" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaciuki2402&show_icons=true&locale=en" alt="gaciuki2402" /></p>
