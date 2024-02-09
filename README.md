@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋, I'm Grace Gaciuki</h2>
 <p align="left">I'm a passionate backend software developer. I thrive in the dynamic world of artificial intelligence, constantly exploring new avenues to apply cutting-edge technology.</p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🔭 I’m currently working on Heart Disease Prediction Model
+- 🔭 I’m currently working on some cool Machine Learning Moddels
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **on possibility of working together to shape the future through machine learning!**
+- 👯 I’m looking to collaborate on **possibility of working together to shape the future through machine learning!**
 
 - 💬 Ask me about **python|django, machine learning**
 
