@@ -2,6 +2,7 @@
 <p align="left">I'm a passionate backend software developer with a strong focus on artificial intelligence, machine learning, and data science. I thrive in the dynamic world of AI, constantly exploring new technologies and building large language models (LLMs) to push the boundaries of what's possible.
 </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🔭 I’m currently working on: Advanced Machine Learning Models and LLMs to solve complex problems and drive innovation.
 
 - 🌱 I’m currently learning: **Cutting-edge techniques in AI and data science to enhance my skills and stay ahead in the field.**
